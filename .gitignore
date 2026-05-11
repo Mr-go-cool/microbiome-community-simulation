@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Results
+results/
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / environments
+env/
+venv/
+
+# Large generated outputs
+*fluxes*.csv
+*growth_rates*.csv
+*summary*.txt
+Blend_*.csv
